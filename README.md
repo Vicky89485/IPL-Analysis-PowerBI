@@ -91,7 +91,7 @@ The dashboard provides detailed insights into:
 # 📸 Dashboard Preview
 
 ## 2008 Dashboard
-![2008 Dashboard](2008_Dashboard.png)
+[![2008 Dashboard](2008_Dashboard.png)](https://github.com/Vicky89485/IPL-Analysis-PowerBI/blob/main/2008_Dashboard.png)
 
 ## 2016 Dashboard
 ![2016 Dashboard](2016_Dashboard.png)
